@@ -1,0 +1,7 @@
+pogId, supc, brand, description, size, category, sub_category, price, quantity, country, seller_code, creation_time, stock
+1,123,"Apple","Phones","70cm","Electronic Devices","Gadgets",10000,100,"India",1312211,"14-02-2021",12
+2,124,"Samsung","Phones","71cm","Electronic Devices","Gadgets",11000,200,"India",1312222,"14-02-2021",13
+3,125,"Nokia","Phones","72cm","Electronic Devices","Gadgets",12000,300,"India",1312233,"14-02-2021",14
+4,126,"Redmi","Phones","73cm","Electronic Devices","Gadgets",13000,400,"India",1312244,"14-02-2021",15
+5,127,"Vivo","Phones","74cm","Electronic Devices","Gadgets",14000,500,"India",1312255,"14-02-2021",16
+6,128,"Oppo","Phones","75cm","Electronic Devices","Gadgets",15000,600,"India",1312266,"14-02-2021",17
